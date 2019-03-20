@@ -109,7 +109,6 @@ main .counteiner blockquote{
 }
 
 /* inicio dos veiculos/objetos*/
-
 .counteiner .card{
     width: 50%;
     float: left;
@@ -126,5 +125,4 @@ main .counteiner blockquote{
 .counteiner .card .titulo{
     margin: 5px 110px; 
 }
-
 /* fim dosveiculos/objetos */
