@@ -29,9 +29,9 @@ main .topo h1{
 }
 
 main .topo .logo{
-	position: fixed;
+	position: absolute;
 	top: 0px;
-	left: 355px;
+	left: 350px;
 	box-sizing: border-box;	
 	width: 140px;
 	margin-left: 0px;
