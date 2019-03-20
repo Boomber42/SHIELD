@@ -18,23 +18,20 @@ main .topo {
 	color: black;
 	border-bottom: 10px solid rgb(51, 11, 51);
 	font-size: 60px;
-	text-transform: uppercase;
 	height: 150px;
-	text-align: center;
 	padding-top: 10px;
 }
 
-main .topo h1{
-	margin-top: 20px;
+main .topo img{
+	width: 140px;
+    float: left;
+	margin-right: 15px;
+	margin-left: 15px;
 }
 
-main .topo .logo{
-	position: absolute;
-	top: 0px;
-	left: 350px;
-	box-sizing: border-box;	
-	width: 140px;
-	margin-left: 0px;
+main .topo h1{
+	margin-top: 28px;
+	text-transform: uppercase;
 }
 
 main .menu{
